@@ -1,2 +1,2 @@
 # Proyecto Ayudame, quiero ...
-En este repositorio se contieneuna aplicación de apoyo a personas con semilidad o con enfermedad Alzhaimer
+Este repositorio contiene una aplicación de apoyo a personas con semilidad o con enfermedad Alzhaimer
