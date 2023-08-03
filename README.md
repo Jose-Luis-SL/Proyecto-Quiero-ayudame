@@ -1,2 +1,2 @@
-# PGH
-Repositorio de prueba
+# Proyecto Ayudame, quiero ...
+En este repositorio se contieneuna aplicación de apoyo a personas con semilidad o con enfermedad Alzhaimer
